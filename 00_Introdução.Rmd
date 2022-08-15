@@ -1,0 +1,27 @@
+---
+title: "Censo e Monitoramento de Mamíferos Usando o R"
+author: "Mauro Galetti e Ricardo Bovendorp"
+date: '2022-08-15'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Monitoramento das Populações Introduzidas e Nativas da Ilha Anchieta
+
+
+
+```{r map}
+
+```
+
+## O censo
+
+As transecções lineares é um dos métodos mais empregados para se estimar a adundância ou densidade de vertebrados.
+
+```{r pressure, echo=FALSE}
+
+```
+
